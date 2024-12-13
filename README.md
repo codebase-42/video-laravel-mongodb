@@ -24,10 +24,8 @@ Pegue sua toalha 🧼, prepare-se para elevar seus projetos Laravel para o próx
 ---
 
 🔗 Links:
-🔹Repositório com o projeto do vídeo:
-https://github.com/codebase-42/video-laravel-mongodb
-🔹Video: Configurar Laravel com Sail detlhado:
-https://www.youtube.com/watch?v=HcRapwZ80L8&list=PLEtHMuppeUUC7wsh_qKATVMdwhfabLkOe
+- Repositório com o projeto do vídeo: https://github.com/codebase-42/video-laravel-mongodb
+- Video: Configurar Laravel com Sail detlhado: https://www.youtube.com/watch?v=HcRapwZ80L8&list=PLEtHMuppeUUC7wsh_qKATVMdwhfabLkOe
 
 ---
 
