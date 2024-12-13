@@ -6,10 +6,10 @@ Assista: https://youtu.be/KLWIy4_blzs
 Você acha que integrar Laravel, MongoDB, e o starter kit Breeze, tudo rodando com Sail, é complicado? Então se prepare, porque neste vídeo eu vou te mostrar um passo a passo simples e rápido para configurar esse setup incrível!
 
 🔥 Aprenda a:
-🔹Instalar o Laravel com Docker e Sail.
-🔹Configurar o MongoDB como banco de dados.
-🔹Adicionar o Breeze para ter um sistema de autenticação pronto.
-🔹Customizar sua aplicação para rodar perfeitamente com essas tecnologias.
+- Instalar o Laravel com Docker e Sail.
+- Configurar o MongoDB como banco de dados.
+- Adicionar o Breeze para ter um sistema de autenticação pronto.
+- Customizar sua aplicação para rodar perfeitamente com essas tecnologias.
 
 Pegue sua toalha 🧼, prepare-se para elevar seus projetos Laravel para o próximo nível, e descubra como tudo isso pode ser muito mais fácil do que parece! 💡
 
