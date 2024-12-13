@@ -14,7 +14,9 @@ Você acha que integrar Laravel, MongoDB, e o starter kit Breeze, tudo rodando c
 Pegue sua toalha 🧼, prepare-se para elevar seus projetos Laravel para o próximo nível, e descubra como tudo isso pode ser muito mais fácil do que parece! 💡
 
 🔗 Código completo disponível no GitHub (link na descrição).
+
 💬 Comente se esse setup te ajudou ou se você já testou enquanto assistia.
+
 👍 Não esqueça de curtir, compartilhar e se inscrever para mais conteúdos como este.
 
 💡 Codebase 42: A resposta para a vida, o universo e tudo mais... é escrever um código melhor! 😉
